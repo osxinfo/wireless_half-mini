@@ -3,8 +3,8 @@ Airport_ssdt_enabler
 OS X Airport Half Mini
 
 Bir airport_ssdt_enabler kullanmak, OS X / Mountain Lion / 10.8.5 ve daha yeni sürümlerinde yerel olmayan 
-WiFi PCIe Yarım Mini kartlarıyla yerel Havaalanını etkinleştirir. 
-Bu yöntem, dsdt ve kext düzenlemelerinden kaçınır ve Yazılım Güncellemeleri ve BIOS düzeltmelerine karşı bağışıklık kazanır.
+WiFi PCIe Yarım Mini kartlarıyla yerel Airport etkinleştirir. 
+Bu yöntem, dsdt ve kext düzenlemelerinden kaçınır ve Yazılım Güncellemeleri ve BIOS düzeltmelerine karşı bağışıklık kazandırır.
 
 Gereksinimler
 <<<<<<< HEAD
