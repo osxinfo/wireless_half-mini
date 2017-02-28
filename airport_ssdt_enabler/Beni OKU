@@ -16,7 +16,7 @@ Gereksinimler
 1b.10.8.5 veya daha yeni (Bu çözüm 10.8.4 veya daha önceki sürümlerde çalışmıyor)
 2. AMI 7/8 Serisi UEFI
 >>>>>>> e6a72efbae6cf519ccc16f7f7e8cd4178ba6f067
-3. Havaalanı Kablosuz kartı: IOReg / RP0x / PSXS @ 0 / satıcı kimliği
+3. Airport Kablosuz kartı: IOReg / RP0x / PSXS @ 0 / satıcı kimliği
 3 A. <E4 14 00 00> (BCM) veya
 3b. <8c 16 00 00> (AR)
 
